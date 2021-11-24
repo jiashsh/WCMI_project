@@ -20,7 +20,7 @@ linux system has been installed CMICOT
 Run WCMI_caller.m to save all the wavelet coefiicients in a txt file.
 
 #Second step，
-run 
+Run 
 ' ./cmicot --pool simdata-ex1> simdata_ex1_feature_ranking_6s --k' 
 in terminal, to save the top-k coefficients and their scores selected by CMI in a new txt
 
