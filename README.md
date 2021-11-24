@@ -8,7 +8,7 @@ by Shanshan Jia,  Xingyi Li, Tiejun Huang, Jian K. Liu, Zhaofei Yu
 ## Basic environmental requirements:
 linux system installed CMICOT and Matlab
 
-To run the WCMI method, one needs to add two followng packages (both were cloned here):
+To run the WCMI method, one needs to add two following packages (both were cloned here):
 1. WItoobox [https://www2.le.ac.uk/centres/csn/software/WI]: here one can implment the wavelet decompsition and compute mutual formation of each feature.
 2. CMICOT [https://github.com/yandex/CMICOT]: we have updated the code, so that one can output the ranking ID of each feature, together with the conditional mutual information value of each feature.
 
@@ -24,7 +24,7 @@ To run the WCMI method, one needs to add two followng packages (both were cloned
 
 ## Datasets:
 
-1. Simulated data: WItoolbox.zip contians the simulated data and the code for WI [https://www2.le.ac.uk/centres/csn/software/WI].
+1. Simulated data: The Data folder contians the simulated data takend from WItoobox.
 
 2. Experimental data: The experimental retinal neural data can be found at [https://doi.org/10.12751/g-node.kod28e].
 
