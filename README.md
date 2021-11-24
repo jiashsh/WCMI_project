@@ -9,8 +9,8 @@ by Shanshan Jia,  Xingyi Li, Tiejun Huang, Jian K. Liu, Zhaofei Yu
 linux system installed CMICOT and Matlab
 
 To run the WCMI method, one needs to add two followng packages (both were cloned here):
-1. WItoobox [https://www2.le.ac.uk/centres/csn/software/WI].
-2. CMICOT [https://github.com/yandex/CMICOT]
+1. WItoobox [https://www2.le.ac.uk/centres/csn/software/WI]: here one can implment the wavelet decompsition and compute mutual formation of each feature.
+2. CMICOT [https://github.com/yandex/CMICOT]: we have updated the code, so that one can output the ranking ID of each feature, together with the conditional mutual information value of each feature.
 
 
 ## Steps:
