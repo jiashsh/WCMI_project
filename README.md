@@ -26,9 +26,9 @@ To run the WCMI method, one needs to add two following packages (both were clone
 
 1. Simulated data: The data folder contians the simulated data takend from WItoobox.
 
-2. Experimental data - 'Retinal ganglion cell responses to natural images' can be ound at [https://doi.org/10.12751/g-node.kod28e].
+2. Experimental data - 'Retinal ganglion cell responses to natural images' can be found at [https://doi.org/10.12751/g-node.kod28e].
 
-3. Experimental data - 'Human ECoG speaking consonant-vowel syllables' can be ound at [https://doi.org/10.6084/m9.figshare.c.4617263.v4].
+3. Experimental data - 'Human ECoG speaking consonant-vowel syllables' can be found at [https://doi.org/10.6084/m9.figshare.c.4617263.v4].
 
 
 
