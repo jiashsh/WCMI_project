@@ -3,11 +3,11 @@ Code for representing the dynamics of spatiotemporal data with non-redundant wav
 
 Accompanying the manuscript
 “Representing the dynamics of high-dimensional data with non-redundant wavelets”
-by Shanshan~Jia,  Xingyi~Li, Tiejun Huang, Jian~K.~Liu, Zhaofei~Yu
+by Shanshan Jia,  Xingyi Li, Tiejun Huang, Jian K. Liu, Zhaofei Yu
 
 
-Contact: Jian~K.~Liu, Zhaofei Yu
-https://github.com/jiashsh/WCMI_new
+Contact: Jian K. Liu, Zhaofei Yu
+https://github.com/jiashsh/WCMI_project
 
 ## Quick start
 
