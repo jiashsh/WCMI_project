@@ -24,7 +24,7 @@ To run the WCMI method, one needs to add two following packages (both were clone
 
 ## Datasets:
 
-1. Simulated data: The Data folder contians the simulated data takend from WItoobox.
+1. Simulated data: The data folder contians the simulated data takend from WItoobox.
 
 2. Experimental data - 'Retinal ganglion cell responses to natural images' can be ound at [https://doi.org/10.12751/g-node.kod28e].
 
