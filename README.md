@@ -1,4 +1,4 @@
-# WCMI
+# WCMI - Wavelet Conditional Mutual Information
 Code for representing the dynamics of spatiotemporal data with non-redundant wavelets
 
 Reference: 
