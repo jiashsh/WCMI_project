@@ -1,5 +1,5 @@
 clear all
-close all %,clc,
+close all
 
 % make handles global so all function will 'see' all parameters they need
 global handles 
@@ -11,7 +11,6 @@ handles.nsurr = 50; % number of surrogates for computing shuffling distribution
 handles.percentile = 95; % percentile of surrogate distribution for significance
 handles.maxwvcoefs =25; % maximum number of coefs to use
 handles.minwvcoefs = 2; % mininum number of coefs to use
-handles.popult=0;
 % below a mat file andd add the data to the global variable
 
 pathn='.\data\';
