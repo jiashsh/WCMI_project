@@ -15,7 +15,7 @@ handles.popult=0;
 % below a mat file andd add the data to the global variable
 
 pathn='.\data\';
-name='simdata_ex1';
+name='simdata_cell_1';
 load([pathn,name,'.mat']);
 
 handles.spiketimes = spiketimes; 
