@@ -10,7 +10,7 @@ load([pathn,name,'.mat']);
 load([pathn,name,'_handles.mat']) 
 
 % features and their scores selected by CMI
-features=textread([pathn,name,'_feature_ranking']);
+features=textread([pathn,name,'_feature_ranking_6s']);
 handles.matrices.selected_wcmicoefs=features(:,2);
 
 % a LDA decoder
