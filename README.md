@@ -17,7 +17,7 @@ To run the WCMI method, one needs to add two following packages (both were clone
 
 1. Run WCMI_caller.m to save all the wavelet coefiicients in a txt file.
 
-2. Run ' ./cmicot --pool data > data_feature_ranking --select-count k' in terminal, to save the top k coefficients selected by CMI in a new txt.
+2. Run ' ./cmicot --pool simdata_cell_1 > simdata_cell_1_feature_ranking --select-count k' in terminal, to save the top k coefficients selected by CMI in a new txt.
 
 3. Run WCMI_decoding.m to get the decoding results.
 
