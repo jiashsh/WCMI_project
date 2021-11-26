@@ -15,7 +15,9 @@ To run the WCMI method, one needs to add two following packages (both were clone
 
 ## Steps:
 
-1. Run WCMI_caller.m to save all the wavelet coefficients in a txt file. You can change to other data of interest inside. By default, the code runs with simdata_cell_1.mat.
+1. Run WCMI_caller.m to save all the wavelet coefficients in a txt file. You can change to other data of interest inside. By default, the code runs with simdata_cell_1.mat. 
+
+   You can run WCMI_population_caller.m, which is a population demo. The code runs with Experimental data - 'Retinal ganglion cell responses to natural images'. 
 
 2. Run ' ./cmicot --pool simdata_cell_1 > simdata_cell_1_feature_ranking_6s --select-count k' in terminal, to save the top k coefficients selected by CMI in a new txt.
 
