@@ -5,6 +5,7 @@ close all
 global handles 
 
 pathn='.\data\';
+%name='simdata_cell_1'; 
 name='simdata_cell_1'; 
 load([pathn,name,'_handles.mat']) 
 
@@ -12,7 +13,7 @@ load([pathn,name,'_handles.mat'])
 features=textread([pathn,name,'_feature_ranking_6s']);
 handles.matrices.selected_wcmicoefs=features(:,2);
 
-% a LDA decoder
+% Decoding with LDA decoder
 WCMIfunc_decode_leaveoneout();
 
 handles.decode
