@@ -5,8 +5,8 @@ close all
 global handles 
 
 pathn='.\data\';
-%name='simdata_cell_1'; 
-name='simdata_cell_1'; 
+name='simdata_cell_1';  % single-cell decoding  
+%name='naturalimages';  % population decoding 
 load([pathn,name,'_handles.mat']) 
 
 % features and their scores selected by CMI
