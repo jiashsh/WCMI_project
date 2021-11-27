@@ -21,13 +21,13 @@ Nimage=10;
 CellID = 1:1:20;
 ImageID = 1:1:10;
 
-% Get spike rasters for sample cell and sample image
+% Get spike rasters for sample cells and sample images
 data = squeeze(spikedata(:,:,:,CellID));
 Raster = squeeze(data(:,:,ImageID,:));
 % Get all the trials for this cell and image
 NTrial = size(Raster,2);
 
-% computes wavelet decomposition of population
+% compute wavelet decomposition of population
 WVM=[];
 actmatrix=[];
 for i=1:Ncell
