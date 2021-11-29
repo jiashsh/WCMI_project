@@ -19,7 +19,7 @@ To run the WCMI method, one needs to add two following packages (both were clone
 
    One can also run WCMI_population_caller.m with Experimental data - 'Retinal ganglion cell responses to natural images'. 
 
-2. Run ' ./cmicot --pool data > data_feature_ranking_6s --select-count k' in terminal, to save the top k coefficients selected by CMI in a new txt.
+2. Run ' ./cmicot --pool *data* > *data_feature_ranking_6s* --select-count k' in terminal, to save the top k coefficients selected by CMI in a new txt. Change *data* to your data file of interest.
 
 3. Run WCMI_decoding.m to get the decoding results of the data of interest. 
 
